@@ -16,4 +16,6 @@ var Parser = function(inputFile) {
             output.push(record);
         }
     });
+
+    return output;
 }

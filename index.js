@@ -6,7 +6,7 @@ var http = require('http'),
 
 //TODO read in the file into a string
 exports.build = function() {
-    
+
 }
 //TODO parse the string into an array
 exports.test = function() {
